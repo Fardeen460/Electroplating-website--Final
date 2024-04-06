@@ -132,7 +132,7 @@
         content: "";
         background: url('./backimg.jpg') no-repeat center center/cover;
         position: absolute;
-        height: 60%;
+        height: 66%;
         width: 100%;
         z-index: -1;
         opacity: 2.5;
